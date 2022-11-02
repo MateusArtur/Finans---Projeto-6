@@ -1,0 +1,62 @@
+#home {
+    background: #ffc107;
+    color: #fff;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+p {
+    text-align: justify;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+
+@media (max-width: 767.98px) {
+
+    header nav div ul li.botao {
+        margin: 10px 0px 10px -23px;
+    }
+
+    header nav div ul li {
+        font-size: 18px;
+    }
+    .imagem-menor {
+        margin-top: 20px;
+        width: 250px;
+        margin-left: 20%;
+    }
+
+    .imagem-media {
+        margin-top: 20px;
+        width: 350px;
+        margin-left: 10%;
+    }
+
+    .caixa p {
+        width: 85%;
+        margin-left: 5%;
+    }
+
+    .caixa h4 {
+        margin-left: 5%;
+    }
+
+    .caixa h2 {
+        margin-left: 5%;
+    }
+
+    .caixa a {
+        margin-left: 5%;
+    }
+
+    footer p {
+       text-align: center;
+    }
+
+    }
