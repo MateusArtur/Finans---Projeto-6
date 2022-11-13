@@ -19,8 +19,8 @@ footer p a {
 
 @media (max-width: 767.98px) {
 
-    header nav div ul li.botao {
-        margin: 10px 0px 10px -23px;
+    header nav .container button {
+        margin-right: 25px;
     }
 
     header nav div ul li {
@@ -81,3 +81,4 @@ footer p a {
             justify-content: end;
         }
     }
+
